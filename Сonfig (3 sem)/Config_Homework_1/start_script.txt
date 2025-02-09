@@ -1,0 +1,2 @@
+echo Starting script is working.
+ls
